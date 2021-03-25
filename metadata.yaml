@@ -1,5 +1,8 @@
 _repo: The-New-Astronomy_64577
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 64577-h/images/cover.jpg
 creator:
   author:
     agent_name: Langley, S. P. (Samuel Pierpont)
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/44566
     wikipedia: https://en.wikipedia.org/wiki/Samuel_Langley
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64577#The-New-Astronomy
 gutenberg_issued: '2021-02-16'
 gutenberg_type: Text
 identifiers:
